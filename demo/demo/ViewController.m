@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    //你好  ,首次使用.
     // Do any additional setup after loading the view, typically from a nib.
 }
 
