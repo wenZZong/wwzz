@@ -19,6 +19,7 @@
     //你好  ,首次使用.
     
     //下课啦
+    //下课了   你怎么还不上课呢
     
     self.view.backgroundColor = [UIColor orangeColor];
     // Do any additional setup after loading the view, typically from a nib.
